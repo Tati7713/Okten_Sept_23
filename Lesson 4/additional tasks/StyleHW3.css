@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+}
+.df-c {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header {
+    height: 20vh;
+}
+main {
+    display: flex;
+}
+.news-1 {
+    height: 60vh;
+    width: 19vw;
+    background-color: #817C7C;
+}
+.sponsor {
+    height: 60vh;
+    width: 18vw;
+    background-color: #B7AEAE;
+}
+.content {
+    height: 30vh;
+    width: 63vw;
+}
+.content1 {
+    height: 20vh;
+    width: 73vw;
+    background-color: #786a6a;
+}
+.content2 {
+    height: 20vh;
+    width: 73vw;
+    background-color: #653232;
+}
+.content3 {
+    height: 20vh;
+    width: 73vw;
+    background-color: #451a1a;
+}
+.spam1 {
+    background-color: #947676;
+    height: 30vh;
+    width: 27vw;
+}
+.spam2 {
+    background-color: #654d4d;
+    height: 30vh;
+    width: 27vw;
+}
+footer {
+    height: 20vh;
+}
+.box3-1 {
+    background-color: #d9d9d9;
+    width: 35vw;
+    height: 19vh;
+}
+.box3-2 {
+    background-color: #ab9999;
+    width: 35vw;
+    height: 19vh;
+}
+.box3-3 {
+    background-color: #c5bbbb;
+    width: 35vw;
+    height: 22vh;
+}
+.middlebox {
+    background-color: #8b8585;
+    width: 35vw;
+    height: 60vh;
+}
+.sidebox {
+    background-color: #c0b3b3;
+    width: 35vw;
+    height: 60vh;
+}
+.side-right {
+    background-color: #b7afaf;
+    height: 60vh;
+    width: 19vw;
+}
+.side-left {
+    background-color: #827d7d;
+    width: 21vw;
+    height: 60vh;
+}
+.middle-top {
+    background-color: #ccbebe;
+    width: 60vw;
+    height: 12vh;
+}
+.middle-bottom {
+    background-color: #cf6363;
+    width: 60vw;
+    height: 13vh;
+}
+.middle-left {
+    background-color: #483535;
+    width: 12vw;
+    height: 35vh;
+}
+.middle {
+    background-color: #a84949;
+    width: 36vw;
+    height: 35vh;
+}
+.middle-right {
+    background-color: #935b5b;
+    width: 12vw;
+    height: 35vh;
+}
+.col-head3 {
+    background-color: #9B6F6F;
+}
+.col-foot3 {
+    background-color: #524B4B;
+}
+.col-silver {
+    background-color: #d9d9d9;
+}
+.col-lightgrey {
+    background-color: #bdbdbd;
+}
+.col-grey {
+    background-color: #aca9a9;
+}
+.col-darkgrey {
+    background-color: #888585;
+}
+.col-head2 {
+    background-color: #8e8585;
+}
+.col-head4 {
+    background-color: #937e7e;
+}
+.col-foot4 {
+    background-color: #bdbdbd;
+}
+.text-color {
+    color: white;
+}
+.df {
+    display: flex;
+}

@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+main {
+    width: 100vw;
+    height: 100vh;
+    background-color: darkcyan;
+}
+.login {
+    height: 350px;
+    width: 550px;
+    border-radius: 10px;
+    background-color: white;
+}
+.df-c {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header {
+    height: 13vh;
+    background-color: #e9f3f3;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.header p {
+    font-size: 25px;
+}
+form {
+    height: 200px;
+    width: 400px;
+}
+.input-t-p {
+    width: 393px;
+    height: 30px;
+    display: block;
+    margin-top: 20px;
+}
+.choice {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.button {
+    width: 100px;
+    height: 30px;
+    background-color: #e9f3f3;
+    border-radius: 10px;
+    border: 1px solid;
+}
