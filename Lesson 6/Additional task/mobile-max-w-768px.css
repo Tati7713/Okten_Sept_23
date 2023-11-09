@@ -1,0 +1,17 @@
+@media screen and (max-width: 768px) {
+    .df {
+        flex-direction: column;
+    }
+    .articleA, .articleB, .link {
+        width: 98vw;
+    }
+    .banner {
+        height: 15vh;
+    }
+    .articleA, .articleB {
+        height: 12vh;
+    }
+    footer {
+        height: 10vh;
+    }
+}

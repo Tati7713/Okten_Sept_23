@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+main {
+    height: 100vh;
+}
+.general {
+    border-radius: 10px;
+    background-color: deepskyblue;
+    margin: 5px;
+}
+.df {
+    display: flex;
+}
+nav {
+    align-items: center;
+}
+.link {
+    height: 25px;
+    width: 70px;
+    margin-bottom: 0;
+}
+.banner {
+    height: 37vh;
+}
+.articleA, .articleB {
+    width: 49.5vw;
+    height: 20vh;
+    margin-right: 0;
+}
+/*.articleB {*/
+/*    margin-right: 0;*/
+/*}*/
+footer {
+    height: 13vh;
+}

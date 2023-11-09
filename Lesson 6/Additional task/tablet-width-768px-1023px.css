@@ -1,0 +1,9 @@
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .articleA, .articleB {
+        height: 43.7vh;
+        width: 24.2vw;
+    }
+    .tablet-df {
+        display: flex;
+    }
+}

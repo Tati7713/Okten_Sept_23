@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+}
+
+/*task 1*/
+
+.df {
+    display: flex;
+}
+.df-c {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main {
+    height: 98vh;
+    width: 99vw;
+    border: 3px solid grey;
+    border-radius: 20px;
+}
+.general {
+    margin: 7px;
+    border-radius: 5px;
+    background-color: #d9d6d6;
+}
+.boxA {
+    width: 98vw;
+    height: 30vh;
+    margin-bottom: 0;
+}
+.boxB {
+    width: 68vw;
+    height: 65vh;
+    margin-right: 0;
+}
+.boxC, .boxF {
+    width: 33vw;
+    height: 65vh;
+}
+
+/*task 2*/
+
+.boxB2 {
+    height: 32vh;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+.boxCDE {
+    width: 22vw;
+    height: 32vh;
+    margin-right: 0;
+}
+
